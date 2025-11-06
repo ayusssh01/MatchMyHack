@@ -23,7 +23,7 @@ import { IoLogoGithub, IoMdLogOut } from 'react-icons/io'
 import { MdDashboard, MdEmail } from 'react-icons/md'
 import { FaStar } from 'react-icons/fa'
 
-import Logo from '@/app/assets/Devmatchups.svg'
+import Logo from '@/app/assets/Devmatchups.png'
 
 
 const Navbar = () => {

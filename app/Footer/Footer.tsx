@@ -8,7 +8,7 @@ import { MdArrowOutward } from "react-icons/md";
 import { FaXTwitter } from "react-icons/fa6";
 import { FaProductHunt } from "react-icons/fa";
 
-import Logo from "@/app/assets/Devmatchups.svg";
+import Logo from "@/app/assets/Devmatchups.png";
 import SwocLogo from "@/app/assets/SWOC.png";
 import HacktoberfestLogo from "@/app/assets/Hacktoberfest.png";
 
