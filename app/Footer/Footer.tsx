@@ -87,16 +87,7 @@ export default function Footer() {
                 <MdArrowOutward className="transition-opacity opacity-0 group-hover:opacity-100" />
               </Link>
             </li>
-            <li>
-              <Link
-                href="mailto:ranachandan1682@gmail.com"
-                target="_blank"
-                className="group flex items-center gap-1 hover:underline"
-              >
-                ranachandan1682@gmail.com
-                <MdArrowOutward className="transition-opacity opacity-0 group-hover:opacity-100" />
-              </Link>
-            </li>
+            
             <li>
               <Link
                 href="https://forms.gle/BsppX1H3HGbA6ioaty"
@@ -121,14 +112,6 @@ export default function Footer() {
             className="text-blue-600 hover:underline"
           >
             Ayush Jha
-          </Link>{" "}
-          &{" "}
-          <Link
-            href="https://www.linkedin.com/in/ranachandansingh"
-            target="_blank"
-            className="text-blue-600 hover:underline"
-          >
-           Rana Chandan Singh
           </Link>
         </p>
         <div className="flex justify-center items-center gap-4 text-xl">
