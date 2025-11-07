@@ -53,7 +53,7 @@
 
 ```bash
 git clone https://github.com/ayusssh01/MatchMyHack.git
-cd DevMatchups
+cd MatchMyHack
 ````
 
 ### 📦 Install Dependencies
